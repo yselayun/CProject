@@ -15,6 +15,20 @@ namespace WindowsFormsApp2
         public Form1()
         {
             InitializeComponent();
+            InitProject();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+        public void InitProject()
+        {
+            /*
+                hoiehfhowhlnpwfnpw;r
+            wfjwpfjpwjf[pwkfjpw
+            wfwjfpjjpj
+             */
         }
     }
 }
